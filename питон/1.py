@@ -32,11 +32,7 @@ print(sum, " ", pr)
 
 print(a.lower())
 print(a.upper())
-"""
- f a=a.replace(' ', '')
-   print("Ошибок нет")
-print(a.replace(' ', '')) 
-"""
+
 print(a.replace(' ', ''))
 if b < 0 or b > 150:
    print("Ошибка, проверьте корректность введенных данных, вы слишком старый или не существуете")
